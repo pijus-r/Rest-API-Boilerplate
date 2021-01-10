@@ -1,13 +1,13 @@
 {
-  "name": "rest-api-jwt",
+  "name": "name",
   "version": "1.0.0",
-  "description": "Rest API with Node, JWT authentication and Express",
+  "description": "description",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pijus Rancevas",
+  "author": "author",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
